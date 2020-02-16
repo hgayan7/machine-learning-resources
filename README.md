@@ -1,6 +1,11 @@
 # Machine Learning Resources
 Collection of links, tutorials and courses related to machine learning for easy reference.
 
+## Activation Functions
+
+* [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+* [Mish: Self Regularized Non-Monotonic Activation Function](https://github.com/digantamisra98/Mish)
+------------ 
 ## Regularization
 
 * [L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)

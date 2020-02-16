@@ -21,6 +21,7 @@ Collection of links, tutorials and courses related to machine learning for easy 
 
 * [Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 * [Bayesian deep learning with Fastai : how not to be uncertain about your uncertainty !](https://towardsdatascience.com/bayesian-deep-learning-with-fastai-how-not-to-be-uncertain-about-your-uncertainty-6a99d1aa686e)
+* [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml) - Coursera
 ------------ 
 ## Misc
 

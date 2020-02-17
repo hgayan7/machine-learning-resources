@@ -9,6 +9,7 @@ Collection of links, tutorials and courses related to machine learning for easy 
 ## Regularization
 
 * [L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
+* [Intuitions on L1 and L2 Regularisation](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261)
 * [Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) - Video
 ------------ 
 
@@ -21,6 +22,14 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) - Video
 * [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+------------ 
+## Boosting Algorithms
+
+* [AdaBoost Tutorial](https://mccormickml.com/2013/12/13/adaboost-tutorial/)
+* [AdaBoost Classifier in Python](https://www.datacamp.com/community/tutorials/adaboost-classifier-python)
+* [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
+* [Basic Ensemble Learning (Random Forest, AdaBoost, Gradient Boosting)- Step by Step Explained](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
+
 ------------ 
 ## Bayesian Networks
 

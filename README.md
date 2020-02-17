@@ -29,7 +29,9 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [AdaBoost Classifier in Python](https://www.datacamp.com/community/tutorials/adaboost-classifier-python)
 * [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
 * [Basic Ensemble Learning (Random Forest, AdaBoost, Gradient Boosting)- Step by Step Explained](https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725)
-
+* [CatBoost overview](https://www.kaggle.com/mitribunskiy/tutorial-catboost-overview)
+* [What is XGBoost](https://www.kaggle.com/dansbecker/xgboost)
+* [What is LightGBM, How to implement it? How to fine tune the parameters?](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7)
 ------------ 
 ## Bayesian Networks
 

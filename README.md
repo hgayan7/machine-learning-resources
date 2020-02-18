@@ -43,3 +43,4 @@ Collection of links, tutorials and courses related to machine learning for easy 
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * [PYRO - Deep Universal Probabilistic Programming](https://pyro.ai/)
+* [Online/Incremental Learning with Keras and Creme](https://www.pyimagesearch.com/2019/06/17/online-incremental-learning-with-keras-and-creme/)

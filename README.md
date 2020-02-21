@@ -39,6 +39,12 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Bayesian deep learning with Fastai : how not to be uncertain about your uncertainty !](https://towardsdatascience.com/bayesian-deep-learning-with-fastai-how-not-to-be-uncertain-about-your-uncertainty-6a99d1aa686e)
 * [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml) - Coursera
 ------------ 
+
+## Meta-Learning
+
+* [Learning to learn aka Meta-Learning - Curriculum](https://dudeperf3ct.github.io/meta/learning/2019/04/29/Fun-of-Dissecting-Paper/)
+------------ 
+
 ## Misc
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)

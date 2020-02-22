@@ -44,6 +44,8 @@ Collection of links, tutorials and courses related to machine learning for easy 
 
 * [Learning to learn aka Meta-Learning - Curriculum](https://dudeperf3ct.github.io/meta/learning/2019/04/29/Fun-of-Dissecting-Paper/)
 * [MAML tensorflow implementation - Colab Notebook](https://colab.research.google.com/github/mari-linhares/tensorflow-maml/blob/master/maml.ipynb#scrollTo=6bCe8vojB2ad)
+* [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) - Video
+* [Explanation of One-shot Learning with Memory-Augmented Neural Networks](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
 ------------ 
 
 ## Misc

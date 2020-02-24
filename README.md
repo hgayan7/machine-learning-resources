@@ -47,9 +47,14 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) - Video
 * [Explanation of One-shot Learning with Memory-Augmented Neural Networks](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
 ------------ 
+## Normalization
 
+* [Box-Cox Transformations](http://onlinestatbook.com/2/transformations/box-cox.html)
+* [The Box-Cox Transformation](https://nickcdryan.com/2017/04/19/the-box-cox-transformation/)
+------------ 
 ## Misc
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * [PYRO - Deep Universal Probabilistic Programming](https://pyro.ai/)
 * [Online/Incremental Learning with Keras and Creme](https://www.pyimagesearch.com/2019/06/17/online-incremental-learning-with-keras-and-creme/)
+

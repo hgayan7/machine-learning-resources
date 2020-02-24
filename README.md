@@ -46,7 +46,15 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [MAML tensorflow implementation - Colab Notebook](https://colab.research.google.com/github/mari-linhares/tensorflow-maml/blob/master/maml.ipynb#scrollTo=6bCe8vojB2ad)
 * [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) - Video
 * [Explanation of One-shot Learning with Memory-Augmented Neural Networks](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
------------- 
+------------
+## NLP
+
+* [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+* [Paper Dissected: “Attention is All You Need” Explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
+* [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
+* [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps) - Video
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+------------
 ## Normalization
 
 * [Box-Cox Transformations](http://onlinestatbook.com/2/transformations/box-cox.html)

@@ -61,7 +61,7 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [The Box-Cox Transformation](https://nickcdryan.com/2017/04/19/the-box-cox-transformation/)
 ------------ 
 ## GAN
-* [Generative Adversarial Nwtworks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) - Video Playlist
+* [Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) - Video Playlist
 
 ------------ 
 ## Misc

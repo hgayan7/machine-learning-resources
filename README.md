@@ -6,6 +6,11 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * [Mish: Self Regularized Non-Monotonic Activation Function](https://github.com/digantamisra98/Mish)
 ------------ 
+## Loss Functions
+
+* [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
+------------ 
 ## Regularization
 
 * [L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)

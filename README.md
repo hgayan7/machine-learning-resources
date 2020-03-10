@@ -67,7 +67,7 @@ Collection of links, tutorials and courses related to machine learning for easy 
 ------------ 
 ## GAN
 * [Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) - Video Playlist
-
+* [Deep Generative Modeling | MIT 6.S191](https://www.youtube.com/watch?v=rZufA635dq4)
 ------------ 
 ## Misc
 

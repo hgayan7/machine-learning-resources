@@ -60,6 +60,10 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Box-Cox Transformations](http://onlinestatbook.com/2/transformations/box-cox.html)
 * [The Box-Cox Transformation](https://nickcdryan.com/2017/04/19/the-box-cox-transformation/)
 ------------ 
+## GAN
+* [Generative Adversarial Nwtworks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) - Video Playlist
+
+------------ 
 ## Misc
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)

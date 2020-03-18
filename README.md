@@ -65,13 +65,39 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Box-Cox Transformations](http://onlinestatbook.com/2/transformations/box-cox.html)
 * [The Box-Cox Transformation](https://nickcdryan.com/2017/04/19/the-box-cox-transformation/)
 ------------ 
+## Instance Segmentation
+
+* [Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo) - Video
+------------ 
+
+## Object Detection
+
+* [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
+* [ROI pooling vs. ROI align](https://mc.ai/roi-pooling-vs-roi-align/)
+* [Region Proposal Network (RPN)](https://medium.com/egen/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9)
+------------ 
+
 ## GAN
 * [Generative Adversarial Networks](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) - Video Playlist
 * [Deep Generative Modeling | MIT 6.S191](https://www.youtube.com/watch?v=rZufA635dq4)
+------------ 
+
+## Reinforcement Learning
+* [Lectures from DeepMind research lead David Silver's course on reinforcement learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) - Lecture Series
+* [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning) - Code, exercises and solutions
+* [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus) - Video series
+* [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 ------------ 
 ## Misc
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * [PYRO - Deep Universal Probabilistic Programming](https://pyro.ai/)
 * [Online/Incremental Learning with Keras and Creme](https://www.pyimagesearch.com/2019/06/17/online-incremental-learning-with-keras-and-creme/)
-
+* [CS 230 - Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* [Stanford Machine Learning Notes](http://www.holehouse.org/mlclass/)
+* [Pretrained models CNNs](https://www.vlfeat.org/matconvnet/pretrained/)
+* [Papers with Code](https://paperswithcode.com/)
+* [colah's blog](http://colah.github.io/)
+* [Distill](https://distill.pub/)
+* [MACHINE LEARNING SUMMER SCHOOL 2019
+LONDON](https://sites.google.com/view/mlss-2019/lectures-and-tutorials) - Video lectures and slides

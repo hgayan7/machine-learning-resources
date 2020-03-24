@@ -45,6 +45,13 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml) - Coursera
 ------------ 
 
+## Active Learning
+
+* [Active Learning: Curious AI Algorithms](https://www.datacamp.com/community/tutorials/active-learning)
+* [modAL](https://modal-python.readthedocs.io/en/latest/content/models/ActiveLearner.html) - Active Learning Framework
+
+------------ 
+
 ## Meta-Learning
 
 * [Learning to learn aka Meta-Learning - Curriculum](https://dudeperf3ct.github.io/meta/learning/2019/04/29/Fun-of-Dissecting-Paper/)

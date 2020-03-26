@@ -95,6 +95,11 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus) - Video series
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 ------------ 
+
+## Recommender System
+
+* [Practical Recommender Systems ](https://www.manning.com/books/practical-recommender-systems) - Book
+
 ## Misc
 
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)

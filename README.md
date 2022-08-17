@@ -4,8 +4,25 @@ Collection of links, tutorials and courses related to machine learning for easy 
 ## Activation Functions
 
 * [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+* [Activation Functions in Neural Networks (Sigmoid, tanh, Softmax, ReLU, Leaky ReLU)
+](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+* [The Challenge of Vanishing/Exploding Gradients
+](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
+* [The Vanishing Gradient Problem
+](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
 * [Mish: Self Regularized Non-Monotonic Activation Function](https://github.com/digantamisra98/Mish)
 ------------ 
+## Weight Initialization
+
+* [Weight Initialization Techniques in Neural Networks (Zero, Random - He, Xavier)](https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78)
+
+------------ 
+## Optimizers
+
+* [Understanding All Optimizers In Deep Learning](https://krishnaik.in/2022/03/28/understanding-all-optimizers-in-deep-learning/)
+
+------------ 
+
 ## Loss Functions
 
 * [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)

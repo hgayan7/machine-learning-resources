@@ -28,6 +28,13 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
 ------------ 
+
+## Algorithms
+
+* [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
+* [Support Vector Machine (SVM) Basic Intuition - Video](https://www.youtube.com/watch?v=H9yACitf-KM&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=83&ab_channel=KrishNaik)
+
+------------ 
 ## Regularization
 
 * [L1 and L2 Regularization Methods](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)

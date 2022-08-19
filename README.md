@@ -83,6 +83,12 @@ Collection of links, tutorials and courses related to machine learning for easy 
 * [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) - Video
 * [Explanation of One-shot Learning with Memory-Augmented Neural Networks](https://rylanschaeffer.github.io/content/research/one_shot_learning_with_memory_augmented_nn/main.html)
 ------------
+
+## CNN
+
+* [CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/neural-networks-3/)
+
+------------ 
 ## NLP
 
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
